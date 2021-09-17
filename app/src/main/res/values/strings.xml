@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EPAM Test Task</string>
+    <string name="enter_Date_of_Birth">Ввести дату рождения</string>
+    <string name="babyBoomer">бэби-бумер</string>
+    <string name="GenerationX">поколение X</string>
+    <string name="generationY">поколение Y (милениал)</string>
+    <string name="generationZ">поколение Z (зумер)</string>
+    <string name="genarationCalculatingError">Извините, вы ввели некорректную дату, попробуйте еще раз</string>
+    <string name="pleaseEnterDateOfBirth">Укажите дату рождения</string>
+    <string name="yourGeneration">ваше поколение :\u0020</string>
+    <string name="calculateGeneration">узнать поколение</string>
+</resources>
